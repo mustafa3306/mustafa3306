@@ -4,19 +4,19 @@
 <a href="https://fatihg34.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=mustafa3306" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠 
+### Who is Mustafa 
 
 <!-- I prefer React & React Native for web/mobile front-end development. -->
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub, JavaScript
+- I am a mathematics student at METU and I am also interested in software. 
 
 - 💬 Ask  me about anything that you want to learn
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/mustafa-k%C3%B6k/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
-## 🚀 Skills
+## 👨‍💻 What I'm using ?
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/> </a>  
  <!-- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
