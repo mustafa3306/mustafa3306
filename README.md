@@ -9,7 +9,7 @@
 <!-- I prefer React & React Native for web/mobile front-end development. -->
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub
+- Python, HTML5, CSS3, Git, GitHub, JavaScript
 
 - 💬 Ask  me about anything that you want to learn
 
