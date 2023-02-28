@@ -9,7 +9,7 @@
 <!-- I prefer React & React Native for web/mobile front-end development. -->
 <br/>
 
-- I am a mathematics student at METU and I am also interested in software. 
+- I am a pharmacy student at Mersin University and I am also interested in software. 
 
 - 💬 Ask  me about anything that you want to learn
 
